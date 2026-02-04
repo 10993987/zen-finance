@@ -12,3 +12,4 @@ export interface BudgetStats {
     monthlyExpenses: number;
     aiAdvice: string;
 }
+
